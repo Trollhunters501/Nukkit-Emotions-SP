@@ -18,6 +18,7 @@ public class BCommand extends Command{
 	@Override
 	public boolean execute(CommandSender s, String label, String[] args) {
 		Player p = (Player)s;
+                p.sendMassage("§cError: Usa §f/e help");
 		String name = TextFormat.YELLOW + p.getName()+" ";
 		String prefix = Utils.colors("§b(§eEmotions§b) ");
 		
@@ -74,23 +75,11 @@ public class BCommand extends Command{
 
 		}
 		else if(args[0].equalsIgnoreCase("love")) {
-            Player name2 = pl.getServer().getPlayer(args[1]);
-            if(name2 !=null) {
-				Server.getInstance().broadcastMessage(prefix + "§6• "+name+"§fEstá enamorado de §b "+name2.getName()+"§f.");
-			}else{
-				p.sendMessage(Utils.colors(prefix+"§fNo se encontro ese jugador!"));
-			}
+				Server.getInstance().broadcastMessage(prefix + "§6• "+name+"§fEstá enamorado de §bAlguien§f.");
 			
 		}
 		else if(args[0].equalsIgnoreCase("kick")) {
-			Player name2 = pl.getServer().getPlayer(args[1]);
-			
-			if(name2 != null) {
-				Server.getInstance().broadcastMessage((prefix + "§6• "+name+"§fPateó a §b "+name2.getName()+"§f."));
-                
-			}else{
-				p.sendMessage(Utils.colors(prefix+"§fNo se encontro ese jugador!"));
-			}
+				Server.getInstance().broadcastMessage((prefix + "§6• "+name+"§fPateó a §bAlguien§f."));
 		
 			}
         else{
