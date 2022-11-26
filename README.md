@@ -1,4 +1,5 @@
 # Nukkit-Emotions-SP
+<img src="https://raw.githubusercontent.com/Trollhunters501/Nukkit-Emotions-SP/main/Icon.png"/>
 El plugin de Emociones en español para nukkit!
 Con este plugin tendrás un comando que dirá a todos como te sientes!
 Creador original del Plugin: Desconocido alguien de Rusia.
