@@ -3,7 +3,7 @@ name: Emotions SP
 authors: [NinjaCR & Creadores]
 description: "Expresa Tus Emociones!"
 website: "https:https://github.com/Trollhunters501/Nukkit-Emotions"
-version: "1.0"
+version: "1.2.0"
 api: ["1.0.0"]
 load: POSTWORLD
 
