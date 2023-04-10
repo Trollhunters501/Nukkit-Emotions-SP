@@ -1,6 +1,7 @@
 # Nukkit-Emotions-SP
 <img src="https://raw.githubusercontent.com/Trollhunters501/Nukkit-Emotions-SP/main/Icon.png"/>
 El plugin de Emociones en español para nukkit!
+<h2>Requisitos:</h2>
 <a href="https://cloudburstmc.org/resources/modloader.108/"><p>Nesesitas el Plugin ModLoader!</p></a>
 Con este plugin tendrás un comando que dirá a todos como te sientes!
 Creador original del Plugin: Desconocido alguien de Rusia.
