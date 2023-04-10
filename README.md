@@ -11,7 +11,7 @@ Quién traducio el plugin a Nukkit? NinjaCR
 Quién re escribió el plugin? Trollhunters501.
 Pon el comando /e help para ver todos los comandos!
 
-Instalación:
+<h2>Instalación:</h2>
 Instale el complemento ModLoader de Nukkit,
 
 Coloque el archivo zip en la carpeta ModLoader y descomprima y elimine el archivo zip.
