@@ -3,6 +3,7 @@
 El plugin de Emociones en español para nukkit!
 <h2>Requisitos:</h2>
 <a href="https://cloudburstmc.org/resources/modloader.108/"><p>Nesesitas el Plugin ModLoader!</p></a>
+<h2>Instrucciones:</h2>
 Con este plugin tendrás un comando que dirá a todos como te sientes!
 Creador original del Plugin: Desconocido alguien de Rusia.
 Quién Actualizó el plugin a la API de Pocketmine 3.0.0? Trollhunters501
